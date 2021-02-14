@@ -1,5 +1,3 @@
-# Hi there 👋
-
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=4C5B5C&height=200&section=header&text=Hello,%20I'm%20Y&fontSize=50&fontColor=f9cb40&animation=fadeIn)
 
